@@ -1,5 +1,5 @@
 # Hackintosh
-# EFI Acer Aspire 5 (model:A515-54-712U)
+# EFI Acer Aspire 5 (model: A515-54-712U)
 
 ### Currently Running On MacOS Monterey 12.3.1 
 
@@ -21,7 +21,7 @@
 
 ## BIOS Setting
 
-### BIOS Version: F15b
+### BIOS Version: v1.22
 
 ### Disable
 
@@ -37,7 +37,7 @@
 * SATA Mode: AHCI (If not showing, press Control + S)
 ```
 
-## DO NOT FORGET TO Change Serial,MLB,SMUUID according to the Guide
+## DO NOT FORGET TO Change Serial, MLB, SMUUID according to the Guide
 
 ## Guide<br>
 
